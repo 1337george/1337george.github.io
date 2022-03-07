@@ -4,6 +4,10 @@ body {
   text-align: right;
 }
 
-.description {
+h1 {
+  color: ghostwhite;
+}
+
+p {
   color: ghostwhite;
 }
