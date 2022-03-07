@@ -6,7 +6,7 @@ body {
 
 #scroll-container {
   height: relative;
-  overflow: visible;
+  overflow: clip;
 }
 
 #scroll-text {
