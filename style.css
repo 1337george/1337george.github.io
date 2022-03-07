@@ -4,6 +4,6 @@ body {
   text-align: right;
 }
 
-p {
-  color: white;
+.description {
+  text-color: white;
 }
