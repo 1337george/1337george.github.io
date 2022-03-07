@@ -5,10 +5,10 @@ body {
 }
 
 #scroll-container {
-  border: 3px;
-  border-color: black;
+  border: 3px solid black;
+  border-radius: 3px;
   height: relative;
-  overflow: clip;
+  overflow: hidden;
 }
 
 #scroll-text {
