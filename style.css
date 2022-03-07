@@ -5,13 +5,15 @@ body {
 }
 
 #scroll-container {
+  border: 3px;
+  border-color: black;
   height: relative;
   overflow: clip;
 }
 
 #scroll-text {
   height: 100%;
-  text-align: center;
+  text-align: right;
   
   /* animation properties */
   -moz-transform: translateY(-100%);
