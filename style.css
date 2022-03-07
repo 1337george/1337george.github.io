@@ -1,9 +1,6 @@
 body {
   margin: 0;
   background: black;
-  text-align: right;
-}
-
-.description {
+  text-align: center;
   color: white;
 }
