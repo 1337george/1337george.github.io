@@ -4,8 +4,8 @@ body {
   text-align: center;
 }
 
-.main-part {
-  font-size: 100px;
+h2 .main-part {
+  font-size: 25px;
 }
 
 #scroll-container {
