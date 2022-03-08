@@ -1,7 +1,15 @@
+/* To Do List for 9th March, 2022 */
+/* - Custom Text for Main Part, Colours invert when hovered over, do same for links as well */
+/* - Custom Text for About page, maybe find out how to remove the index.html when visiting the about page */
+/* - Improve general website look (make it look less like a carrd/template site cuz they're pretty ugly) */
+/* - Finish design on main page, Start Design on About page */
+/* - Start Design on the Schizoid Rabbithole (Hopefully) */
+
 body {
   margin: 0;
   background-color: rgb(186, 31, 63);
-  background-image: url("texture.svg");
+  /* remember to change to texture.png/svg once back on pc */
+  background-image: url("535580B8-7F1F-4093-B361-46E60AFBED21.png");
   background-repeat: repeat-xy;
   text-align: center;
 }
