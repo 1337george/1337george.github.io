@@ -1,2 +1,2 @@
 # 1337george.github.io
-Website
+https://navgenerate.gq
