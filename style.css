@@ -4,13 +4,13 @@ body {
   text-align: center;
 }
 
-p .main-part {
+h1 .main-part {
   font-size: 25px;
 }
 
 .main-part {
     height: 100px;
-    width: 400px;
+    width: 250px;
     border: 3px solid black;
   
     position: fixed;
