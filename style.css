@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: rgb(186, 31, 63);
+  background-repeat: url("texture.svg");
   text-align: center;
 }
 
