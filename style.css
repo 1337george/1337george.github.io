@@ -12,8 +12,6 @@ body {
 #scroll-text {
   height: 100%;
   text-align: right;
-  font-family: "Times New Roman", Times, serif;
-  font-size:; 35px;
   
   /* animation properties */
   -moz-transform: translateY(-100%);
