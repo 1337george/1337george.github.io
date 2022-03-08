@@ -27,8 +27,8 @@ h1 .main-part {
 }
 
 #scroll-text {
-  height: 90%;
-  text-align: right;
+  height: 100%;
+  text-align: center;
   
   /* animation properties */
   -moz-transform: translateY(-100%);
