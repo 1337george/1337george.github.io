@@ -4,6 +4,10 @@ body {
   text-align: center;
 }
 
+.main-part {
+  
+}
+
 #scroll-container {
   height: relative;
   overflow: hidden;
