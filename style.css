@@ -9,8 +9,7 @@
 body {
   margin: 0;
   background-color: rgb(186, 31, 63);
-  /* remember to change to texture.png/svg once back on pc */
-  background-image: url("535580B8-7F1F-4093-B361-46E60AFBED21.png");
+  background-image: url("texture.gif");
   background-repeat: repeat-xy;
   text-align: center;
 }
