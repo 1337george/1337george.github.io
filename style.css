@@ -22,6 +22,7 @@ h2 .main-part {
     width: 400px;
     border: 2px solid black;
     background: RGB(155, 0, 41);
+    background-image: url("texturewhite.gif");
   
     position: relative;
     top: 50%;
